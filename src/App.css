@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+ul.card-body-stars li {
+  display: inline-block; /* Отображать как строчный элемент */
+}
